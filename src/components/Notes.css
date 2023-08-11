@@ -1,0 +1,14 @@
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 5rem auto;
+    padding: 30px;
+    border-radius: 12px;
+    background-color: var(--frame-color);
+}
+
+.notes-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+}
